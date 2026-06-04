@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: '文章',
         items: [
-          { text: '公司AI平台调用方法', link: '/articles/company-ai-platform' }
+          { text: '公司AI中转平台调用方法', link: '/articles/company-ai-platform' }
         ]
       }
     ],
