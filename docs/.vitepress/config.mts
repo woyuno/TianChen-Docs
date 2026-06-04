@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'TianChen Docs',
   description: 'TianChen documentation site',
   lang: 'zh-CN',
+  base: '/TianChen-Docs/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
